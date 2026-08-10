@@ -429,15 +429,15 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 ### 📈 Repository Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Tanmoy&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&count_private=true&include_all_commits=true)](https://github.com/Mr-Tanmoy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Tanmoy&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&count_private=true&include_all_commits=true)
 
 ### 💻 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tanmoy&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=79c0ff&layout=compact)](https://github.com/Mr-Tanmoy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tanmoy&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=79c0ff&layout=compact)
 
 ### 📊 Featured Repository
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tcode-Motion&repo=techscript&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff)](https://github.com/Tcode-Motion/techscript)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tcode-Motion&repo=techscript&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff)
 
 </div>
 
@@ -456,8 +456,6 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-### Snake Game Animation
 
 ![Snake animation](https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/output/github-contribution-grid-snake-dark.svg)
 
