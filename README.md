@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,65:0d1a3d,100:00d4ff&height=230&section=header&text=MR-TANMOY&fontSize=68&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20·%20AI%20%2B%20Android%20Builder%20·%20Open%20Source%20Creator&descAlignY=62&descColor=7dd3fc&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,25:0a0a2e,55:0d1a3d,80:00d4ff,100:7dd3fc&height=260&section=header&text=MR-TANMOY&fontSize=64&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20·%20AI%20%2B%20Android%20Builder%20·%20Open%20Source%20Creator&descAlignY=58&descColor=7dd3fc&descSize=15" width="100%"/>
 
 </div>
 
@@ -22,6 +22,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--Tanmoy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Tanmoy)
+[![Formerly](https://img.shields.io/badge/Formerly-Tcode--Motion-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcode-Motion)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mr-Tanmoy&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Mr-Tanmoy)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Mr-Tanmoy)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Mr-Tanmoy)
@@ -81,7 +82,7 @@ impl Tanmoy {
 }
 ```
 
-I'm **Tanmoy Majumder** — a student developer from **West Bengal, India**, building under the identity **Mr-Tanmoy** (previously **Tcode-Motion**). My work centers on **Android development**, **on-device AI and computer vision**, and **native/systems programming** — with a running side-project of building my own programming language, **TechScript**, in Rust.
+I'm **Tanmoy Majumder** — a student developer from **West Bengal, India**, building under the identity **[Mr-Tanmoy](https://github.com/Mr-Tanmoy)** (previously **[Tcode-Motion](https://github.com/Tcode-Motion)**). My work centers on **Android development**, **on-device AI and computer vision**, and **native/systems programming** — with a running side-project of building my own programming language, **TechScript**, in Rust.
 
 I care about software that actually runs — not demos. If an AI model works in a research repo, I want to know what it takes to get it running offline, on a phone, at real speed.
 
@@ -443,17 +444,7 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- Requires a github-contribution-grid-snake GitHub Action set up on this repo to generate the SVG on the `output` branch -->
+> **Note:** the stats/streak/activity images above are served live by third-party Vercel-hosted widgets (`github-readme-stats`, `streak-stats`, `github-readme-activity-graph`). They occasionally show a rendering error when that shared service is rate-limited or temporarily down — this is not something in this file to "fix," it resolves on its own when the service recovers. If it keeps failing, the usual fix is self-hosting your own instance of the widget (each project has a one-click "Deploy to Vercel" option in its repo).
 
 ---
 
@@ -464,9 +455,10 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 > Open to collabs on **Android**, **on-device AI**, **native systems**, **TechScript**, and open source.
 
 [![GitHub Follow](https://img.shields.io/badge/Follow-@Mr--Tanmoy-181717?style=for-the-badge&logo=github)](https://github.com/Mr-Tanmoy)
+[![Formerly Tcode-Motion](https://img.shields.io/badge/Legacy-@Tcode--Motion-6e40c9?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanmoy.is--a.dev-00A3FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanmoy.is-a.dev)
 [![YouTube](https://img.shields.io/badge/YouTube-@tcodemotion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tcodemotion)
-<!-- TODO: add email / other contact links -->
+[![Email](https://img.shields.io/badge/Email-tanmoymajumder0012-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmoymajumder0012@gmail.com)
 
 </div>
 
@@ -487,6 +479,6 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d1a3d,80:0a0a2e,100:0d0d0d&height=140&section=footer&text=Same%20Developer.%20New%20Generation.&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d1a3d,80:0a0a2e,100:0d0d0d&height=140&section=footer&text=Same%20Developer.%20New%20Generation.&fontSize=22&fontColor=00d4ff&animation=twinkling&fontAlignY=62" width="100%"/>
 
 </div>
