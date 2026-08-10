@@ -9,13 +9,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,25:0a0a2e,55:0d1a3d,80:00d4ff,100:7dd3fc&height=260&section=header&text=MR-TANMOY&fontSize=64&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20·%20AI%20%2B%20Android%20Builder%20·%20Open%20Source%20Creator&descAlignY=58&descColor=7dd3fc&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,25:0a0a2e,55:0d1a3d,80:00d4ff,100:7dd3fc&height=260&section=header&text=MR-TANMOY&fontSize=64&fontColor=00d4ff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%93%B1+Building+Android+apps+with+Kotlin+%2B+Jetpack+Compose;%F0%9F%A4%96+Deploying+AI+%2B+Computer+Vision+directly+on-device;%F0%9F%8E%A8+Building+NeoSketch+—+AI-powered+creative+tools;%F0%9F%8E%B5+Building+MiniVibe+—+offline-first+music+experiences;%F0%9F%A6%80+Building+TechScript+—+my+own+programming+language;%E2%9A%99%EF%B8%8F+Exploring+Rust%2C+C%2B%2B%2C+NDK+%26+native+performance;%F0%9F%8C%90+Building+modern+web+experiences+%26+dev+tools;%F0%9F%9A%80+Student+developer.+Builder.+Experimenter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%93%B1+Building+Android+apps+with+AI;%F0%9F%A4%96+Shipping+real+on-device+inference;%F0%9F%A6%80+Creator+of+TechScript+2.0;%F0%9F%94%A7+Native+performance+systems)](https://github.com/Mr-Tanmoy)
 
 </div>
 
@@ -38,12 +38,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Build real software. Experiment. Learn. Optimize. Ship."      ║
-║                                          — Tanmoy Majumder        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   "Build real software. Experiment. Learn. Optimize. Ship."    ║
+║                                          — Tanmoy Majumder    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -82,7 +82,7 @@ impl Tanmoy {
 }
 ```
 
-I'm **Tanmoy Majumder** — a student developer from **West Bengal, India**, building under the identity **[Mr-Tanmoy](https://github.com/Mr-Tanmoy)** (previously **[Tcode-Motion](https://github.com/Tcode-Motion)**). My work centers on **Android development**, **on-device AI and computer vision**, and **native/systems programming** — with a running side-project of building my own programming language, **TechScript**, in Rust.
+I'm **Tanmoy Majumder** — a student developer from **West Bengal, India**, building under the identity **[Mr-Tanmoy](https://github.com/Mr-Tanmoy)** (previously **[Tcode-Motion](https://github.com/Tcode-Motion)**).
 
 I care about software that actually runs — not demos. If an AI model works in a research repo, I want to know what it takes to get it running offline, on a phone, at real speed.
 
@@ -196,7 +196,7 @@ This is what separates the work from typical app-only development:
 
 </div>
 
-Full-stack work with **React / Next.js** on the frontend and **Node.js + REST APIs** on the backend — mainly for developer tools, documentation sites, and project landing pages rather than large-scale production web apps.
+Full-stack work with **React / Next.js** on the frontend and **Node.js + REST APIs** on the backend — mainly for developer tools, documentation sites, and project landing pages rather than large-scale web services.
 
 ---
 
@@ -244,7 +244,7 @@ Full-stack work with **React / Next.js** on the frontend and **Node.js + REST AP
 
 </div>
 
-Node.js + REST APIs, with Firebase/Supabase for auth and realtime data on app-side projects, and PostgreSQL/MongoDB for structured data needs. Secondary to the mobile/AI work, but used where a project needs it.
+Node.js + REST APIs, with Firebase/Supabase for auth and realtime data on app-side projects, and PostgreSQL/MongoDB for structured data needs. Secondary to the mobile/AI work, but used where a proper backend makes sense.
 
 ---
 
@@ -372,7 +372,7 @@ Beyond writing code, I've been through the real end-to-end process of shipping a
 - Privacy policy requirements for AI/camera-permission apps
 - APK size and performance optimization before release
 
-Technically: **Kotlin, Jetpack Compose, Material 3, Android SDK/NDK, JNI, CMake**, sensors, camera/image pipelines, media playback, notifications, background processing, local storage, and running **ONNX Runtime** on-device.
+Technically: **Kotlin, Jetpack Compose, Material 3, Android SDK/NDK, JNI, CMake**, sensors, camera/image pipelines, media playback, notifications, background processing, local storage, and running AI models on-device.
 
 ---
 
@@ -427,24 +427,22 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/main/stats.svg" width="100%"/>
+### Current Stats (Generated SVG)
 
-</div>
+![GitHub Stats](https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/main/stats.svg)
 
-<div align="center">
+> **How it works:** The stats.svg is generated by a GitHub Action workflow (`metrics.yml`) that runs periodically and commits the rendered image. This avoids live API rate limits and ensures consistent display.
+>
+> **To enable this in your own README:**
+> 1. Add `metrics.yml` to `.github/workflows/` in your profile repo.
+> 2. Create a [Personal Access Token](https://github.com/settings/tokens) (classic, scopes: `repo`, `read:user`) and save it as `METRICS_TOKEN`.
+> 3. Run the workflow once — it'll commit `stats.svg` to your repo.
+
+### GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Tanmoy&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa)](https://github.com/Mr-Tanmoy)
 
 </div>
-
-> **Why this changed:** the card used to be a *live* call to the public `github-readme-stats.vercel.app` API — shared by everyone who embeds it, so it regularly hits GitHub's rate limit and shows "Error Fetching Resource." The project's own maintainers now recommend against relying on that live endpoint at all. So this card is generated **once by a GitHub Action** (`metrics.yml`, included) using [`lowlighter/metrics`](https://github.com/lowlighter/metrics) and committed straight into your repo as `stats.svg` — the same pattern as the snake game. Nothing is fetched live, so nothing can rate-limit it.
->
-> To turn it on:
-> 1. Add `metrics.yml` to `.github/workflows/` in your **Mr-Tanmoy/Mr-Tanmoy** repo.
-> 2. Create a [Personal Access Token](https://github.com/settings/tokens) (classic, scopes: `repo`, `read:user`) and save it as a repo secret named `METRICS_TOKEN` (**Settings → Secrets and variables → Actions**).
-> 3. Run the workflow once manually from the **Actions** tab. It'll commit `stats.svg` to `main`, which is what the image above points to.
->
-> The streak badge stays on `streak-stats.demolab.com` since that service has separate, more generous infrastructure and isn't part of the rate-limited instance above.
 
 ---
 
@@ -452,11 +450,13 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 <div align="center">
 
+### Snake Game Animation
+
 ![Snake animation](https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+> **How to add this:** This animation is generated by a GitHub Action. The workflow renders your contribution graph as a snake game and pushes the SVG to the `output` branch.
 
-> This animation is generated by a GitHub Action, not a static image — it needs to actually run in your repo before this link resolves. Add the included `snake.yml` workflow to `.github/workflows/` in your **Mr-Tanmoy/Mr-Tanmoy** repo, then either wait for its schedule or trigger it manually from the **Actions** tab (`Run workflow`). It writes the SVG to a branch called `output`, which is what the URL above points to — until that first run completes, the image will 404.
+</div>
 
 ---
 
@@ -479,18 +479,18 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   Don't just learn technology.                                       ║
-║   Build something with it — then ship it.                            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   Don't just learn technology.                                 ║
+║   Build something with it — then ship it.                      ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d1a3d,80:0a0a2e,100:0d0d0d&height=140&section=footer&text=Same%20Developer.%20New%20Generation.&fontSize=22&fontColor=00d4ff&animation=twinkling&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d1a3d,80:0a0a2e,100:0d0d0d&height=140&section=footer&text=Same%20Developer.%20New%20Generation.&fontSize=22&fontColor=ffffff&animation=fadeInOut" width="100%"/>
 
 </div>
