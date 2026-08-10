@@ -472,7 +472,7 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 [![GitHub Follow](https://img.shields.io/badge/Follow-@Mr--Tanmoy-181717?style=for-the-badge&logo=github)](https://github.com/Mr-Tanmoy)
 [![Formerly Tcode-Motion](https://img.shields.io/badge/Legacy-@Tcode--Motion-6e40c9?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanmoy.is--a.dev-00A3FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanmoy.is-a.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-@tcodemotion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tcodemotion)
+[![YouTube](https://img.shields.io/badge/YouTube-@tcodemotion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tcodemotin)
 [![Email](https://img.shields.io/badge/Email-tanmoymajumder0012-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmoymajumder0012@gmail.com)
 
 </div>
