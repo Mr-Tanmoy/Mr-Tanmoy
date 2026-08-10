@@ -427,8 +427,7 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Tanmoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tanmoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="42%"/>
+<img src="https://raw.githubusercontent.com/Mr-Tanmoy/Mr-Tanmoy/main/stats.svg" width="100%"/>
 
 </div>
 
@@ -438,13 +437,14 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Tanmoy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
-
-</div>
-
-> **Note:** the stats/streak/activity cards above are rendered live by third-party Vercel-hosted widgets. The public `github-readme-stats.vercel.app` instance is shared by everyone who uses it, so it regularly hits GitHub's API rate limit and shows an **"Error Fetching Resource"** card — this is a known, ongoing issue with the free public instance itself, not a broken link in this file. It usually clears on its own within a few minutes to hours. If it keeps happening, the permanent fix is deploying your own copy: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), click its "Deploy to Vercel" button, add your own `PAT_1` token, and swap the domain in the URLs above for your new one.
+> **Why this changed:** the card used to be a *live* call to the public `github-readme-stats.vercel.app` API — shared by everyone who embeds it, so it regularly hits GitHub's rate limit and shows "Error Fetching Resource." The project's own maintainers now recommend against relying on that live endpoint at all. So this card is generated **once by a GitHub Action** (`metrics.yml`, included) using [`lowlighter/metrics`](https://github.com/lowlighter/metrics) and committed straight into your repo as `stats.svg` — the same pattern as the snake game. Nothing is fetched live, so nothing can rate-limit it.
+>
+> To turn it on:
+> 1. Add `metrics.yml` to `.github/workflows/` in your **Mr-Tanmoy/Mr-Tanmoy** repo.
+> 2. Create a [Personal Access Token](https://github.com/settings/tokens) (classic, scopes: `repo`, `read:user`) and save it as a repo secret named `METRICS_TOKEN` (**Settings → Secrets and variables → Actions**).
+> 3. Run the workflow once manually from the **Actions** tab. It'll commit `stats.svg` to `main`, which is what the image above points to.
+>
+> The streak badge stays on `streak-stats.demolab.com` since that service has separate, more generous infrastructure and isn't part of the rate-limited instance above.
 
 ---
 
