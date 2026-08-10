@@ -429,15 +429,15 @@ What it doesn't mean: **AI writes my code for me.** I design the architecture, v
 
 ### 📈 Repository Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Tanmoy&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mr-Tanmoy&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&count_private=true&include_all_commits=true)
 
 ### 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tanmoy&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=79c0ff&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-Tanmoy&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=79c0ff&layout=compact)
 
 ### 📊 Featured Repository
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tcode-Motion&repo=techscript&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff)
+![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=Tcode-Motion&repo=techscript&theme=nord&hide_border=true&bg_color=0d1117&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff)
 
 </div>
 
